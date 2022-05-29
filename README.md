@@ -1,4 +1,4 @@
-# Venus
+# Ayush
 
 A landing page template.
 
