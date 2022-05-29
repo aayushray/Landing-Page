@@ -1,4 +1,4 @@
-# Ayush
+# Landing-Page
 
 A landing page template.
 
